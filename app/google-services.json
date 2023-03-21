@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996515762364",
+    "project_id": "wechat-4253d",
+    "storage_bucket": "wechat-4253d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996515762364:android:4f54de3c67293d960100b9",
+        "android_client_info": {
+          "package_name": "com.ET.wetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996515762364-rdb8csq7mpecdjlj9imvbhe74mhhkfdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLf6qw5cw3yevTgciDwC6iW54WW1IP0Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996515762364-rdb8csq7mpecdjlj9imvbhe74mhhkfdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
