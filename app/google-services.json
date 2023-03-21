@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "996515762364",
+    "firebase_url": "https://wechat-4253d-default-rtdb.firebaseio.com",
     "project_id": "wechat-4253d",
     "storage_bucket": "wechat-4253d.appspot.com"
   },
@@ -14,7 +15,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "996515762364-rdb8csq7mpecdjlj9imvbhe74mhhkfdl.apps.googleusercontent.com",
+          "client_id": "996515762364-elsigsd0pg16b1vc12c1d80fchh4h33e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ET.wetalk",
+            "certificate_hash": "283b43418488ffb7f8b2998d84e4fbcf1ec30e25"
+          }
+        },
+        {
+          "client_id": "996515762364-rekehjhenl7v7i485kstatsh9jbpejj4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
